@@ -3,7 +3,7 @@ module.exports = {
   // 网站的标题
   title: "OnJava8 中文",
   // 上下文根
-  base: "/doc-onjava8/",
+  base: "/OnJava8-zh/",
   themeConfig: {
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
     repo: "gdut-yy/OnJava8-zh",
