@@ -1,7 +1,8 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "gh": "bash gitee-deploy.sh"
   },
   "dependencies": {
     "axios": "^0.19.0"
